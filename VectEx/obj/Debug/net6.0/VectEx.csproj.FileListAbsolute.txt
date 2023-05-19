@@ -1,0 +1,15 @@
+C:\Users\conta\source\repos\VectEx\VectEx\bin\Debug\net6.0\VectEx.exe
+C:\Users\conta\source\repos\VectEx\VectEx\bin\Debug\net6.0\VectEx.deps.json
+C:\Users\conta\source\repos\VectEx\VectEx\bin\Debug\net6.0\VectEx.runtimeconfig.json
+C:\Users\conta\source\repos\VectEx\VectEx\bin\Debug\net6.0\VectEx.dll
+C:\Users\conta\source\repos\VectEx\VectEx\bin\Debug\net6.0\VectEx.pdb
+C:\Users\conta\source\repos\VectEx\VectEx\obj\Debug\net6.0\VectEx.csproj.AssemblyReference.cache
+C:\Users\conta\source\repos\VectEx\VectEx\obj\Debug\net6.0\VectEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conta\source\repos\VectEx\VectEx\obj\Debug\net6.0\VectEx.AssemblyInfoInputs.cache
+C:\Users\conta\source\repos\VectEx\VectEx\obj\Debug\net6.0\VectEx.AssemblyInfo.cs
+C:\Users\conta\source\repos\VectEx\VectEx\obj\Debug\net6.0\VectEx.csproj.CoreCompileInputs.cache
+C:\Users\conta\source\repos\VectEx\VectEx\obj\Debug\net6.0\VectEx.dll
+C:\Users\conta\source\repos\VectEx\VectEx\obj\Debug\net6.0\refint\VectEx.dll
+C:\Users\conta\source\repos\VectEx\VectEx\obj\Debug\net6.0\VectEx.pdb
+C:\Users\conta\source\repos\VectEx\VectEx\obj\Debug\net6.0\VectEx.genruntimeconfig.cache
+C:\Users\conta\source\repos\VectEx\VectEx\obj\Debug\net6.0\ref\VectEx.dll
